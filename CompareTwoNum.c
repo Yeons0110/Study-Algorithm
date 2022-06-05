@@ -23,7 +23,7 @@ int main()
 
     else if (A[i] == B[i])
     {
-      printf("D");
+      printf("Equal");
     }
 
     printf("\n");
